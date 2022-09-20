@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.hero{
+    position: cover;
+    width: 100%;
+    height: 100vh;
+}
+span{
+    color: orange;
+}
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+}
